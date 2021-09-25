@@ -46,7 +46,7 @@
 - 💻 The tech I'm interested Flutter/Android/ActionsOnGoogle etc.
 - 📱 First Live app on Play Store [Silent At Office](https://play.google.com/store/apps/details?id=com.jalotsav.silentatoffice)
 - ✨ I'm learning Flutter, Android, Firebase, NodeJS etc.
-- 📫 Search on Google: <b>Jaldeep Asodariya</b>
+- Search on <img align="center" src="assets/google-icon.png" width="20" height="20" /> : <b>Jaldeep Asodariya</b>
 
 <br>
 <br>
